@@ -1,0 +1,1 @@
+CREATE INDEX crm_dev.ix_widgetprices_1 ON crm_dev.widgetprices(datevalidfrom);
